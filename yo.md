@@ -12,4 +12,4 @@
 ###
 
 ## Expectativas
-##### - Quiero aprender a usar el programa R y ponerlo en práctica en mi hospital  ![Imagen del Instituto Roosevelt](C:\Users\mrural1\Pictures\Instituto-Roosevelt-sede.jpg "Instituto Roosevelt")
+##### Quiero aprender a usar el programa R y ponerlo en práctica en mi hospital  ![Imagen del Instituto Roosevelt](C:\Users\mrural1\Pictures\Instituto-Roosevelt-sede.jpg "Instituto Roosevelt")
