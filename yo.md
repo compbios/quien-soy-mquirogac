@@ -1,7 +1,8 @@
 # **Manuela** Quiroga    
 ## Datos personales 
 
-##### Residente en Bogotá, Colombia
+##### Residente en Bogotá, Colombia  
+##### Considero que los perros son los animales más completos del mundo y son felicidad. 
 
 
 ## Educación
@@ -14,5 +15,4 @@
 ## Expectativas
 ##### Quiero aprender a usar el programa R y ponerlo en práctica en mi hospital  ![Imagen del Instituto Roosevelt](C:\Users\mrural1\Pictures\Instituto-Roosevelt-sede.jpg "Instituto Roosevelt")
 #### `Quiero aprender a codificar`    
-
 
